@@ -1,5 +1,5 @@
 # TinyApp
-Tiny Mobile Application using React Native
+Tiny Mobile Application 
 
 Anna Kasagawa
 COMP 150 Mobile Development - Tiny App Project
