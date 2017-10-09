@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/64e4eae09eebc5bbc1921037344dce008a339e8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77931caaddc0c26c128d6a5437d18d15171f366c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0cc58a748025bcf914d06ac080ae9bc8daa287c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/55a0b117ff87fee650ae38a99686a4acb5d9f063/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_00609e8df50b2978e2b1e1e325b2ffd66ff7a435/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/e08380a4b4d1d2672d92b4d302de668cec7aaac1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_2ef531bdf1104043394e08bb26bf08fd138f2df1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_26704efe967eab82cc5345d8f5a47c7f5c7cd86b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/c73c11ec677e8c29590bfdba7efa4f5d30a4ebf5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c496ad5271217a725ad58456ec9cb82874e71f4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/c73c11ec677e8c29590bfdba7efa4f5d30a4ebf5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_c496ad5271217a725ad58456ec9cb82874e71f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_26704efe967eab82cc5345d8f5a47c7f5c7cd86b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/8dcec7d7711f6065afffa9f56ba436ab4a97fb0a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cdadf01abc7418039ce1e0e2cbad1cb8d7bb88d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/38a830d33eb03788713c35042fb80409d0ddc306/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2bc0a8f9c51b417c2d5e8eced0ceeda950a01b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/7d3878534b1d7a8b0a035ca213e5d4feb80e17b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_fcb837b75dbb60ced2ff734f9545464e1eda68fb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/7d3878534b1d7a8b0a035ca213e5d4feb80e17b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcb837b75dbb60ced2ff734f9545464e1eda68fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/38a830d33eb03788713c35042fb80409d0ddc306/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_a2bc0a8f9c51b417c2d5e8eced0ceeda950a01b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/20c0bb253b27ced28a66612f4326fe5f5e5ece7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e0a393b8ccf08f085a46e413b692130137e544e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/008918537609115f740d150251ba0656a63825d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d882bd1c73bfa1cb72b58c72365e41ec1c29870f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/55a0b117ff87fee650ae38a99686a4acb5d9f063/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_00609e8df50b2978e2b1e1e325b2ffd66ff7a435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/008918537609115f740d150251ba0656a63825d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_d882bd1c73bfa1cb72b58c72365e41ec1c29870f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/20c0bb253b27ced28a66612f4326fe5f5e5ece7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_1e0a393b8ccf08f085a46e413b692130137e544e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/64e4eae09eebc5bbc1921037344dce008a339e8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_77931caaddc0c26c128d6a5437d18d15171f366c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/c392b9208b540626cb6af426b3a5c6796d209221/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_5eeb1ea43086176828e5f0298cb5d5eed7b59598.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="61d2be2263d74b4ababfd476b38a85e02c7c9bdb">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7a8033ce836fa5b05401ab8264d8d69174832c91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/5f8b6866f9a92a96a2630d22f27bfb9538592ad9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9bba8a4e9881a2462fabaa4d0f8b11e06c890aab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/c392b9208b540626cb6af426b3a5c6796d209221/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5eeb1ea43086176828e5f0298cb5d5eed7b59598/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/8dcec7d7711f6065afffa9f56ba436ab4a97fb0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_1cdadf01abc7418039ce1e0e2cbad1cb8d7bb88d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/5f8b6866f9a92a96a2630d22f27bfb9538592ad9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_9bba8a4e9881a2462fabaa4d0f8b11e06c890aab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/e08380a4b4d1d2672d92b4d302de668cec7aaac1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ef531bdf1104043394e08bb26bf08fd138f2df1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_e5f3cb345b4e21453b903c35d9f980802ff60820/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/44af7411cdb76e94d425590a8633b001739ade92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_6a909e6a44c19ef73ffd6e253f6c7c652a278219.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/44af7411cdb76e94d425590a8633b001739ade92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a909e6a44c19ef73ffd6e253f6c7c652a278219/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/annakasagawa/.android/build-cache/5da6cf95cc7754403958909187fa87daab31c0a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18519ac72d92c075ef6a332cefa7d1d0f475781b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_e5f3cb345b4e21453b903c35d9f980802ff60820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annakasagawa/.android/build-cache/5da6cf95cc7754403958909187fa87daab31c0a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/annakasagawa/AndroidStudioProjects/TinyApp/app/build/intermediates/pre-dexed/debug/classes_18519ac72d92c075ef6a332cefa7d1d0f475781b.jar" />
+    </item>
+
+</items>

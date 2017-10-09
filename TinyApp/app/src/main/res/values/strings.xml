@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">TinyApp</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_after_click">afterClick</string>
-    <string name="title_activity_correct">correct</string>
-</resources>
